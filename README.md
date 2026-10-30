@@ -44,23 +44,26 @@ public class LennyFirst0 : Developer
 ## 📊 Статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LennyFirst0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyFirst0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="top langs" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LennyFirst0&theme=tokyonight" alt="profile details" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LennyFirst0&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LennyFirst0&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LennyFirst0&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LennyFirst0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" />
-</p>
-
 ## 📌 Проекты
 
 <p align="center">
   <a href="https://github.com/LennyFirst0/PluginUtilsLabApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LennyFirst0&repo=PluginUtilsLabApi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" alt="PluginUtilsLabApi" />
+    <img src="https://img.shields.io/badge/PluginUtilsLabApi-C%23%20%C2%B7%20LabAPI-7c3aed?style=for-the-badge&logo=github&labelColor=1e1b4b" alt="PluginUtilsLabApi" />
+  </a>
+  <a href="https://github.com/LennyFirst0/AutoEvent">
+    <img src="https://img.shields.io/badge/AutoEvent-C%23%20%C2%B7%20SCP%3ASL-7c3aed?style=for-the-badge&logo=github&labelColor=1e1b4b" alt="AutoEvent" />
   </a>
 </p>
 
