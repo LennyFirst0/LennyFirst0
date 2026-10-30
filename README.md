@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LennyFirst0&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="views" />
-  <img src="https://img.shields.io/github/followers/LennyFirst0?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/LennyFirst0?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=githubsponsors&logoColor=white" alt="stars" />
 </p>
 
